@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+.my_nav{
+	padding-left: 30%;
+}
+.nav_last{
+	display: block;
+	width: 35px;
+	height: 35px;
+	background: #CCCCCC;
+}
+.download{
+	width: 1150px;
+	margin: 0 auto;
+	height: 140px;
+	background: #CCCCCC;
+}
+.banxi{
+	padding: 0 ;
+}
+.jumbotron{
+	position: relative;
+}
+.btn_down{
+	position: absolute;
+	bottom: 20%;
+	right: 5%;
+	background: green;
+}
+.text_con{
+	background: #CCCCCC;
+	height: 200px;	
+}
+#pic_info{
+	padding-top: 15px;
+}
+.text_con2{
+	height: 200px;
+	background: lightblue;
+	position: relative;
+}
+.mid_nav{
+	padding: 0 10%;
+}
+.mid_nav li:hover{
+	border-bottom: 1px solid green;
+}
+.my_btn{
+	width: 80px;height: 24px;
+	background: #72C02C;
+	color: white;
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+	padding-left: 5px;
+}
+.left_pic{
+	display: inline-block;
+	width: 230px;
+	height: 144px;
+	background: gray;
+}
+.right_text{
+	display: inline-block;
+	width: 500px;
+	margin-left: 10px;
+}
+.left_con{
+	width: 100%;
+}
+.btm_pic{
+	display: block;
+	float: left;
+}
+.foot{
+	background: #242424;
+	height: 325px;
+}
+.foot_content{
+	background: #C0C0C0;
+	height: 325px;
+}
+.copyright{
+	height: 60px;
+	background: #222222;
+	padding: 0 20%;
+}
+.copy_text{
+	width: 300px;
+	height: 60px;
+	background: lightblue;
+	float: left;
+}
+.pattner{
+	width: 300px;
+	height: 60px;
+	background: lightcoral;
+	float: right;
+}
+.foot_contain{
+	height: 385px;
+}
+.foot_banxi{
+
+}
+.copy_container{
+		height: 60px;
+		background: #222222;
+}
